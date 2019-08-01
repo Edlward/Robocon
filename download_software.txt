@@ -1,0 +1,51 @@
+IAR8.22.1：
+	软件简介：
+		18届Robocon电控组主控分控代码编辑IDE。
+	下载地址：
+		https://bt.byr.cn/details.php?id=260010&hit=1
+	安装教程：
+		https://www.jb51.net/softjc/605124.html
+	注册机下载地址：
+		https://download.csdn.net/download/qq_37668436/10584982
+
+STM32CubeMX：
+	软件简介：
+		stm32官方hal库代码图形化生成软件。
+	下载地址：
+		https://pan.baidu.com/share/init?surl=kWUH08n (提取码：4th4)
+	安装教程：
+		https://blog.csdn.net/sudaroot/article/details/79364484
+
+Keil5（mdk5）：
+	软件简介：
+		16、17届Robocon电控组主控分控代码编辑IDE。
+	下载地址：
+		https://bt.byr.cn/details.php?id=186246&hit=1
+	安装教程：
+		https://blog.csdn.net/sexyluna/article/details/81396721
+	注册机地址：
+		https://bt.byr.cn/details.php?id=186246&hit=1（评论区有链接）
+
+Altium Designer：
+	软件简介：
+		电控组用于绘制电路板原理的工具。
+	下载地址：(2选1即可）
+		AD 17:https://bt.byr.cn/details.php?id=221566&hit=1
+		AD 15:https://bt.byr.cn/details.php?id=176139&hit=1
+	注意：高版本在个别电脑上会出现无法保存的错误，若是这种电脑请选择低版本。
+	安装教程：
+		https://jingyan.baidu.com/article/046a7b3e9ad5fcf9c37fa952.html
+
+jlink驱动：
+	软件简介：
+		单片机下载器的驱动软件。
+	下载地址：
+		https://pan.baidu.com/share/init?surl=UdCYjuHBe_KdNgCVCF3H2A（提取码：e0y2 ）
+
+Solidworks：
+	软件简介：
+		机械组图纸绘制软件。
+	下载地址：
+		https://bt.byr.cn/details.php?id=247635&hit=1
+	安装教程：
+		https://mp.weixin.qq.com/s?__biz=MzIwMjE1MjMyMw==&mid=2650199099&idx=1&sn=d338beaa0266cdca932097c2632f364c&chksm=8ee174d7b996fdc153f68e0610a3d569b5251d721ac6f332ac913c8637ccfdb19c2ba4b50bb9&mpshare=1&scene=23&srcid=#rd
