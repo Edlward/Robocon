@@ -1,0 +1,15 @@
+"H:\IAR\arm\bin\armproc.dll" 
+
+"H:\IAR\arm\bin\armjlink2.dll" 
+
+"C:\Users\HZM\Desktop\program\p008\EWARM\p008\Exe\p008.out" 
+
+--plugin "H:\IAR\arm\bin\armbat.dll" 
+
+--device_macro "H:\IAR\arm\config\debugger\ST\STM32F1xx_XL.dmac" 
+
+--flash_loader "H:\IAR\arm\config\flashloader\ST\FlashSTM32F10xx8.board" 
+
+
+
+

