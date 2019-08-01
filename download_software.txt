@@ -49,3 +49,5 @@ Solidworks：
 		https://bt.byr.cn/details.php?id=247635&hit=1
 	安装教程：
 		https://mp.weixin.qq.com/s?__biz=MzIwMjE1MjMyMw==&mid=2650199099&idx=1&sn=d338beaa0266cdca932097c2632f364c&chksm=8ee174d7b996fdc153f68e0610a3d569b5251d721ac6f332ac913c8637ccfdb19c2ba4b50bb9&mpshare=1&scene=23&srcid=#rd
+
+...github testing...
